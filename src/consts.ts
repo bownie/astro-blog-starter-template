@@ -2,4 +2,4 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = "Bowngroup";
-export const SITE_DESCRIPTION = "Welcome";
+export const SITE_DESCRIPTION = "Bown-related resources";
